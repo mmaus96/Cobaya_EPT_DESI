@@ -1,0 +1,458 @@
+[4 : mcmc] Getting initial point... (this may take a few seconds)
+[4 : mcmc] Initial point: H0:69.25337, omega_b:0.02242529, omega_cdm:0.1021444, logA:2.833601, bsig8_LRG:1.785578, b2_LRG:-2.181274, bs_LRG:1.174001[[5 : mcmc] Progress @ 2023-07-02 19:47:44 : 1 steps taken, and 0 accepted.[6 : mcmc] Learn + convergence test @ 400 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00544757 s (3678 evaluations, 20.0362 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00258647 s (1445 evaluations, 3.73745 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[[[6 : mcmc] Learn + convergence test @ 800 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562693 s (7748 evaluations, 43.5974 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267921 s (3026 evaluations, 8.10728 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest.[[1 [[[7 : mcmc] Progress @ 2023-07-02 19:48:44 : 9206 steps taken, and 1001 acc[[1 [6 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00569303 s (11420 evaluations, 65.0144 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00271035 s (4453 evaluations, 12.0692 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the res[3 : m[6 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00572957 s (15248 evaluations, 87.3645 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00272518 s (5947 evaluations, 16.2067 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the res[3[[5 [2 : mcmc] Progress @ 2023-07-02 19:49:44 : 18326 steps taken, and 1865 acce[3[[5 [6 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00574158 s (18982 evaluations, 108.987 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273048 s (7428 evaluations, 20.282 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the r[3 : [1 [6 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00573916 s (22745 evaluations, 130.537 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00272795 s (8911 evaluations, 24.3087 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the [3 : m[1 [6 : mcmc] Progress @ 2023-07-02 19:50:44 : 27156 steps taken, and 2784 accepte[1 : mcmc] Learn + convergence test @ 2800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00566829 s (26516 evaluations, 150.3 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00271487 s (10321 evaluations, 28.0202 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest.[3 :[1 : [6 : mcmc] Learn + convergence test @ 3200 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00572605 s (29993 evaluations, 171.741 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00272029 s (11720 evaluations, 31.8818 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the[3 : [1 : [6 : mcmc] Learn + convergence test @ 3600 samples accepted.
+[6 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00572798 s (33553 evaluations, 192.191 s total)
+[6 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00272211 s (13128 evaluations, 35.7359 s total)
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the[3 [1 : [[[6 : mcmc] Progress @ 2023-07-02 19:51:44 : 36138 steps taken, and 3695 [3 [1 : [5 : mcmc] Learn + convergence test @ 4000 samples accepted.
+[5 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055565 s (38240 evaluations, 212.481 s total)
+[5 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00272973 s (14884 evaluations, 40.6294 s total)
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the re[[1 : mcmc] Learn + convergence test @ 4400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00566706 s (41418 evaluations, 234.718 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00270182 s (16114 evaluations, 43.5371 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)[[1 :[5[2[6 : mcmc] Progress @ 2023-07-02 19:52:44 : 45542 steps taken, and 4652 a[[1 : mcmc] Learn + convergence test @ 4800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00564962 s (45392 evaluations, 256.448 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269153 s (17672 evaluations, 47.5648 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)[[1 : mcmc] Learn + convergence test @ 5200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00563111 s (49812 evaluations, 280.497 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268104 s (19405 evaluations, 52.0255 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)[[1 : mcmc] Progress @ 2023-07-02 19:53:44 : 55470 steps taken, and 5518 accepted.
+[1 : mcmc] Learn + convergence test @ 5600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00561845 s (53554 evaluations, 300.89 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267497 s (20852 evaluations, 55.7785 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 6000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00561937 s (57459 evaluations, 322.883 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267835 s (22376 evaluations, 59.9308 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)[[1 : mcmc] Progress @ 2023-07-02 19:54:44 : 64664 steps taken, and 6371 accepted.
+[1 : mcmc] Learn + convergence test @ 6400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562057 s (61833 evaluations, 347.537 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268116 s (24064 evaluations, 64.5194 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest..[3 [1 : mcmc] Learn + convergence test @ 6800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562201 s (65626 evaluations, 368.95 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268338 s (25540 evaluations, 68.5334 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[3[1 : mcmc] Learn + convergence test @ 7200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562706 s (69451 evaluations, 390.805 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268814 s (27046 evaluations, 72.7033 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[3[1 [2 : mcmc] Progress @ 2023-07-02 19:55:44 : 74342 steps taken, and 7513 accepte[1 : mcmc] Learn + convergence test @ 7600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562764 s (73252 evaluations, 412.236 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268925 s (28520 evaluations, 76.6975 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[3[1 : mcmc] Learn + convergence test @ 8000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562754 s (77060 evaluations, 433.658 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269042 s (29981 evaluations, 80.6614 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 8400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562766 s (78307 evaluations, 440.685 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269086 s (30487 evaluations, 82.0362 s total[3 : mcmc] Learn + convergence test @ 8800 samples accepted.
+[3 : likelihoodcollection] Average co[1[2 : mcmc] Progress @ 2023-07-02 19:56:44 : 83344 steps taken, and 8783 accepted[1 : mcmc] Learn + convergence test @ 8800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562531 s (79694 evaluations, 448.304 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269015 s (31054 evaluations, 83.5399 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 9200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562654 s (81263 evaluations, 457.23 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269127 s (31695 evaluations, 85.2998 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 9600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562791 s (82684 evaluations, 465.338 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269254 s (32274 evaluations, 86.8989 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)[[1 : mcmc] Learn + convergence test @ 10000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562799 s (84070 evaluations, 473.145 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269308 s (32844 evaluations, 88.4517 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest..[[5[1 : mcmc] Learn + convergence test @ 10400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562851 s (85491 evaluations, 481.187 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269381 s (33427 evaluations, 90.0458 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the res[2 :[5[1 : mcmc] Learn + convergence test @ 10800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562647 s (86996 evaluations, 489.48 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269329 s (34051 evaluations, 91.7093 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest[2 :[5 : mcmc] Progress @ 2023-07-02 19:57:44 : 92922 steps taken, and 11181 accepted.
+[[1 : mcmc] Learn + convergence test @ 11200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562637 s (88395 evaluations, 497.343 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.0026936 s (34632 evaluations, 93.2847 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest.[2 [[1 : mcmc] Learn + convergence test @ 11600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00562178 s (89959 evaluations, 505.73 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00269181 s (35270 evaluations, 94.94 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[2[1 : mcmc] Learn + convergence test @ 12000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00561815 s (91325 evaluations, 513.078 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.0026903 s (35829 evaluations, 96.3909 s total)
+[1 : mcmc] R[7 : mcmc] Learn + convergence test @ 12400 samples accepted.
+[7 : likelihoodcollec[[1 : mcmc] Learn + convergence test @ 12400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00561385 s (92832 evaluations, 521.145 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268854 s (36441 evaluations, 97.9731 s total)
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...[2[1 : mcmc] Learn + convergence test @ 12800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00561007 s (94319 evaluations, 529.136 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268706 s (37048 evaluations, 99.5503 s total)
+[1 [5 : mcmc] Learn + convergence test @ 13200 samples accepted.
+[5 : likelihoodcollection] A[2 [1 : mcmc] Learn + convergence test @ 13200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00560714 s (95717 evaluations, 536.698 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268575 s (37624 evaluations, 101.049 s total)
+[1 [5 : mcmc] Learn + convergence test @ 13600 samples accepted.
+[5 : likelihoodcollection] A[2 [1 : mcmc] Progress @ 2023-07-02 19:58:44 : 100531 steps taken, and 13416 accepted.
+[1 : mcmc] Learn + convergence test @ 13600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00560398 s (97110 evaluations, 544.203 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268448 s (38191 evaluations, 102.523 s total)
+[1 [5 : mcmc] Learn + convergence test @ 14000 samples accepted.
+[5 : likelihoodcollection] Aver[1 : mcmc] Learn + convergence test @ 14000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559977 s (98727 evaluations, 552.848 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268254 s (38860 evaluations, 104.244 s tota[2 : mcmc] Learn + convergence test @ 14400 samples accepted.
+[2 : likelihoodcollection] Average co[1 : mcmc] Learn + convergence test @ 14400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055955 s (100476 evaluations, 562.213 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00268065 s (39577 evaluations, 106.092 s tot[2 : mcmc] Learn + convergence test @ 14800 samples accepted.
+[2 : likelihoodcollection] Average com[1 : mcmc] Learn + convergence test @ 14800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559148 s (102081 evaluations, 570.783 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.002679 s (40240 evaluations, 107.803 s total[2 : mcmc] Learn + convergence test @ 15200 samples accepted.
+[2 : likelihoodcollection] Average c[1 : mcmc] Learn + convergence test @ 15200 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558804 s (103561 evaluations, 578.703 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267755 s (40848 evaluations, 109.372 s total[2 : mcmc] Learn + convergence test @ 15600 samples accepted.
+[2 : likelihoodcollection] Average c[1 : mcmc] Learn + convergence test @ 15600 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055845 s (104956 evaluations, 586.127 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267602 s (41421 evaluations, 110.843 s total[2 : mcmc[4 : mcmc] Learn + convergence test @ 16000 samples accepted.
+[4 : likelihoodcollection] [1 : mcmc] Progress @ 2023-07-02 19:59:44 : 109649 steps taken, and 15777 accepted.
+[1 : mcmc] Learn + convergence test @ 16000 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558143 s (106448 evaluations, 594.132 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267487 s (42027 evaluations, 112.417 s total[2 : mcm[5 : mcmc] Learn + convergence test @ 16400 samples accepted.
+[5 : likelihoodcollection] A[1 : mcmc] Learn + convergence test @ 16400 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558228 s (107858 evaluations, 602.093 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267551 s (42603 evaluations, 113.985 s total[2 : mcmc] Learn + convergence test @ 16800 samples accepted.
+[2 : likelihoodcollection] Average c[1 : mcmc] Learn + convergence test @ 16800 samples accepted.
+[1 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558394 s (109448 evaluations, 611.151 s total)
+[1 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00267668 s (43263 evaluations, 115.801 s total[2 : mcmc[4 : mcmc] Learn + convergence test @ 17200 samples accepted.
+[4 : likelihoodcollection] [1 : pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_lrg] Average evaluation time for pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG: 0.00558397 s  (110122 evaluations)
+[1 : pk_likelihood_gc_emu_fs_am_omb.taylor_pk_theory_zs] Average evaluation time for pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs: 0.00267682 s  (43538 evaluations)
+[3 : likelihoodcollection] Avera[2 : pk_b[4 : pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_lrg] Average evaluation time for pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG: 0.00552848 s  (111213 evaluations)
+[4 : pk_likelihood_gc_emu_fs_am_omb.taylor_pk_theory_zs] Average evaluation time for pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs: 0.00268109 s  (44058 evaluations)
+)
+waiting for the rest...)
+[3 : pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_lrg] Average evaluation time for pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG: 0.00553386 s  (110563 evaluations)
+[3 : pk_likelihood_gc_emu_fs_am_omb.taylor_pk_theory_zs] Average evaluation time for pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs: 0.00274266 s  (43874 evaluations)
+6861858522, 0.1123543483293464, 0.10866212249365641])
+[0 : mcmc]  - Convergence of means: R-1 = 12.384608 after 69331 accepted steps = sum([8734, 8420, 8636, 8800, 8672, 8599, 8735, 8735])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 8800 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559564 s (78759 evaluations, 440.707 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275169 s (30762 evaluations, 84.6475 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Progress @ 2023-07-02 19:56:44 : 82931 steps taken, and 8889 accepted.
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.115 = avg([0.11744063932788606, 0.10956448118728056, 0.11306438284125911, 0.1182271069796107, 0.11174947602021945, 0.11255139905726608, 0.1206433610613878, 0.11519156556612102])
+[0 : mcmc]  - Convergence of means: R-1 = 6.119854 after 72544 accepted steps = sum([9169, 8800, 9029, 9208, 9063, 8977, 9165, 9133])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 9200 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559411 s (79952 evaluations, 447.26 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275128 s (31248 evaluations, 85.9719 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 9600 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559541 s (81429 evaluations, 455.628 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275236 s (31850 evaluations, 87.6625 s total)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.122 = avg([0.12426249870613808, 0.11531134061967312, 0.12059713639022406, 0.1256665712873605, 0.11865550418593028, 0.1199796773783818, 0.12899000160402074, 0.12537057263223592])
+[0 : mcmc]  - Convergence of means: R-1 = 3.988913 after 76181 accepted steps = sum([9604, 9200, 9484, 9662, 9496, 9445, 9649, 9641])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 10000 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055967 s (82782 evaluations, 463.306 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275351 s (32402 evaluations, 89.2191 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.130 = avg([0.13228196946121998, 0.12317799219872716, 0.12858958727852862, 0.1336188663282572, 0.12663465467919902, 0.12788890040418696, 0.1363537827877737, 0.1340115582305787])
+[0 : mcmc]  - Convergence of means: R-1 = 2.595592 after 79567 accepted steps = sum([10031, 9600, 9914, 10108, 9916, 9872, 10063, 10063])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 10400 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559671 s (84210 evaluations, 471.299 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275384 s (32989 evaluations, 90.8464 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.137 = avg([0.13948819529953424, 0.13190175956947264, 0.13556291738970394, 0.1398480202639648, 0.13341794446746788, 0.13404734471561747, 0.14420054051072748, 0.14055889406882427])
+[0 : mcmc]  - Convergence of means: R-1 = 1.773653 after 82651 accepted steps = sum([10421, 10000, 10311, 10490, 10301, 10238, 10458, 10432])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 10800 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559721 s (85680 evaluations, 479.569 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275449 s (33594 evaluations, 92.5345 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.145 = avg([0.1464075670108681, 0.14002962165073382, 0.1425, 0.14634146341463414, 0.1411947860045385, 0.14138160521762277, 0.15188138201147014, 0.14948169386854873])
+[0 : mcmc]  - Convergence of means: R-1 = 1.310567 after 85825 accepted steps = sum([10804, 10400, 10715, 10883, 10701, 10621, 10857, 10844])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 11200 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559494 s (87273 evaluations, 488.287 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275369 s (34248 evaluations, 94.3082 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.153 = avg([0.15387151728306864, 0.1479223619464188, 0.1495201483910858, 0.1560268102406329, 0.148138248108845, 0.1498427843434891, 0.16030339185273565, 0.15683975432719152])
+[0 : mcmc]  - Convergence of means: R-1 = 0.992368 after 89163 accepted steps = sum([11200, 10821, 11124, 11359, 11083, 11055, 11285, 11236])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Progress @ 2023-07-02 19:57:44 : 91623 steps taken, and 11315 accepted.
+[0 : mcmc] Learn + convergence test @ 11600 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559396 s (88838 evaluations, 496.957 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275377 s (34890 evaluations, 96.0791 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.161 = avg([0.16169951768936966, 0.15542278649074764, 0.15644986449864498, 0.1643064228367529, 0.15632653061224488, 0.16042200200423115, 0.1692050305757471, 0.16565461665058737])
+[0 : mcmc]  - Convergence of means: R-1 = 0.759341 after 92592 accepted steps = sum([11600, 11238, 11545, 11787, 11490, 11526, 11731, 11675])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 12000 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00559128 s (90426 evaluations, 505.597 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00275161 s (35538 evaluations, 97.7866 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.169 = avg([0.16777585146244617, 0.16416233675045638, 0.16486419549244613, 0.17100162912195943, 0.1652603530587321, 0.17062678062678063, 0.17620722737448033, 0.1736996210816397])
+[0 : mcmc]  - Convergence of means: R-1 = 0.583516 after 95956 accepted steps = sum([12000, 11690, 11982, 12176, 11908, 11977, 12121, 12102])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 12400 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558892 s (91940 evaluations, 513.845 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274973 s (36165 evaluations, 99.4439 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.178 = avg([0.17621646202819463, 0.17525773195876287, 0.17130258742616267, 0.17924420920835468, 0.17364559819413092, 0.17951541850220265, 0.18771626297577854, 0.1813806500246441])
+[0 : mcmc]  - Convergence of means: R-1 = 0.446169 after 99281 accepted steps = sum([12400, 12137, 12353, 12598, 12308, 12388, 12585, 12512])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 12800 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558424 s (93559 evaluations, 522.456 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274763 s (36833 evaluations, 101.204 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.187 = avg([0.1829041753593781, 0.1855770651692035, 0.18063056694471935, 0.1880245738513455, 0.18097836900599756, 0.18798825256975038, 0.1944486076556458, 0.1917196510424368])
+[0 : mcmc]  - Convergence of means: R-1 = 0.331412 after 102643 accepted steps = sum([12800, 12557, 12776, 13037, 12734, 12801, 12973, 12965])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 13200 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00558025 s (95084 evaluations, 530.592 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274593 s (37460 evaluations, 102.862 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.195 = avg([0.19165432528965937, 0.19536314028158824, 0.1894155227488561, 0.19552893979476146, 0.19324138334943922, 0.19789732223087522, 0.20146099975851245, 0.19688934972596653])
+[0 : mcmc]  - Convergence of means: R-1 = 0.265283 after 105826 accepted steps = sum([13200, 12960, 13163, 13451, 13198, 13214, 13348, 13292])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 13600 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00557697 s (96521 evaluations, 538.295 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274473 s (38046 evaluations, 104.426 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.204 = avg([0.2000764998381734, 0.20647810782436857, 0.20214631826154167, 0.2053152992821973, 0.20152000950005938, 0.20732783542801497, 0.2075300384370933, 0.20479798736110696])
+[0 : mcmc]  - Convergence of means: R-1 = 0.204824 after 109007 accepted steps = sum([13600, 13374, 13599, 13844, 13576, 13625, 13714, 13675])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Progress @ 2023-07-02 19:58:44 : 100594 steps taken, and 13645 accepted.
+[0 : mcmc] Learn + convergence test @ 14000 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00557316 s (97979 evaluations, 546.052 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274306 s (38645 evaluations, 106.005 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.214 = avg([0.20998144934474297, 0.21661385952253975, 0.21112550070776737, 0.21541203479942, 0.21221757829062934, 0.2153581097711051, 0.21498569602532108, 0.21570182394924664])
+[0 : mcmc]  - Convergence of means: R-1 = 0.149196 after 112412 accepted steps = sum([14036, 13809, 14020, 14262, 14014, 14000, 14127, 14144])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 14400 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055691 s (99398 evaluations, 553.558 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00274124 s (39226 evaluations, 107.528 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.223 = avg([0.22050077769983836, 0.22513404613090518, 0.2205004134382752, 0.22335210838788247, 0.22045510154147296, 0.22440087145969498, 0.2230624980786375, 0.22374626267607806])
+[0 : mcmc]  - Convergence of means: R-1 = 0.115006 after 115586 accepted steps = sum([14460, 14191, 14400, 14671, 14415, 14420, 14512, 14517])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 14800 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00556518 s (100896 evaluations, 561.505 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273955 s (39843 evaluations, 109.152 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.232 = avg([0.22880078737735676, 0.23180962710134295, 0.23094688221709006, 0.23501960052268062, 0.22900716226228698, 0.23659777424483308, 0.23008549118854357, 0.2335926030050292])
+[0 : mcmc]  - Convergence of means: R-1 = 0.081075 after 118900 accepted steps = sum([14877, 14534, 14800, 15108, 14836, 14881, 14909, 14955])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 15200 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00556243 s (102502 evaluations, 570.161 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273779 s (40509 evaluations, 110.905 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.242 = avg([0.23875183691336022, 0.24295969077857538, 0.24065864471184295, 0.24489409984871408, 0.23827210587096975, 0.24760548796272328, 0.24258802705607183, 0.24316205533596838])
+[0 : mcmc]  - Convergence of means: R-1 = 0.053535 after 122270 accepted steps = sum([15271, 14960, 15200, 15540, 15268, 15303, 15349, 15379])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 15600 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00556023 s (104067 evaluations, 578.637 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273608 s (41146 evaluations, 112.579 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.253 = avg([0.2468056913903524, 0.2537737407101569, 0.2545193499967369, 0.2579281865987031, 0.24425574425574426, 0.2568527918781726, 0.2519057075139325, 0.2538508537801074])
+[0 : mcmc]  - Convergence of means: R-1 = 0.045668 after 125449 accepted steps = sum([15645, 15365, 15600, 15990, 15647, 15685, 15729, 15788])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 16000 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.0055583 s (105564 evaluations, 586.757 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273451 s (41761 evaluations, 114.196 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.262 = avg([0.25747214998876367, 0.2652724456119081, 0.266753350670134, 0.26767759473356695, 0.25478518424153634, 0.26416897324370636, 0.2586395520947294, 0.2638829943521269])
+[0 : mcmc]  - Convergence of means: R-1 = 0.023486 after 128415 accepted steps = sum([16039, 15754, 16002, 16346, 16000, 16033, 16076, 16165])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Progress @ 2023-07-02 19:59:44 : 109663 steps taken, and 16058 accepted.
+[0 : mcmc] Learn + convergence test @ 16400 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00555728 s (107088 evaluations, 595.118 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273357 s (42386 evaluations, 115.865 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.272 = avg([0.26587314422486014, 0.27232067794330295, 0.27595950082411114, 0.27949008121421914, 0.26650231924486684, 0.27080581241743723, 0.26901730329742085, 0.2744668855503598])
+[0 : mcmc]  - Convergence of means: R-1 = 0.010571 after 131699 accepted steps = sum([16440, 16196, 16407, 16794, 16432, 16400, 16479, 16551])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 16800 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00556086 s (108474 evaluations, 603.209 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273505 s (42959 evaluations, 117.495 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.273 = avg([0.2704862782859894, 0.2708183658807393, 0.2752473949800118, 0.27971141659354587, 0.2685891097004689, 0.27014354988920647, 0.27278311188698157, 0.2725632931778651])
+[0 : mcmc]  - Convergence of means: R-1 = 0.008645 after 134914 accepted steps = sum([16853, 16585, 16800, 17214, 16840, 16823, 16876, 16923])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 17200 samples accepted.
+[0 : likelihoodcollection] Average computation time:
+   pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG : 0.00556344 s (109991 evaluations, 611.928 s total)
+[0 : theorycollection] Average computation time:
+   pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs : 0.00273589 s (43580 evaluations, 119.23 s total)
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.271 = avg([0.2687950566426365, 0.2706343141001146, 0.27508617387973955, 0.27816411682892905, 0.2673350301073934, 0.26933408295852074, 0.2700100363818843, 0.2701224846894138])
+[0 : mcmc]  - Convergence of means: R-1 = 0.009096 after 138037 accepted steps = sum([17225, 16997, 17237, 17600, 17225, 17246, 17217, 17290])
+[0 : mcmc]  - Convergence of bounds: R-1 = 0.084235 after 138037 accepted steps = sum([17225, 16997, 17237, 17600, 17225, 17246, 17217, 17290])
+[0 : mcmc] The run has converged!
+[0 : mcmc] Sampling complete after 138037 accepted steps.
+[0 : pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_lrg] Average evaluation time for pk_boss_likelihoods_emu_fs_am_omb.abacus_mock_LRG: 0.0055639 s  (110138 evaluations)
+[0 : pk_likelihood_gc_emu_fs_am_omb.taylor_pk_theory_zs] Average evaluation time for pk_likelihood_gc_emu_fs_am_omb.Taylor_pk_theory_zs: 0.00273607 s  (43644 evaluations)
